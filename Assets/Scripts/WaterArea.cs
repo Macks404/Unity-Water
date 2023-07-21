@@ -7,7 +7,7 @@ public class WaterArea : MonoBehaviour
 
     [Header("Mesh properties")]
     Mesh mesh;
-    Vector3[] vertices;
+    public Vector3[] vertices;
     int[] triangles;
     public Material material;
     [Header("Perlin noise properties")]

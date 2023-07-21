@@ -97,10 +97,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   debugMode: 0
-  material: {fileID: 2100000, guid: 22dde0ee1ce6c564ab7583167823b4e5, type: 2}
+  vertices: []
+  material: {fileID: 2100000, guid: 9915a9e8087a900479299a6637151501, type: 2}
   xOrg: 0
   yOrg: 0
-  scale: 30
-  size: 125
+  scale: 3
+  size: 100
   speed: 0.2
-  waveSize: 1
+  waveSize: 2
